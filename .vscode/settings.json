@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "tailwindCSS.experimental.classRegex": [
+    "className:\\s*\"([^\"]*)\"",
+    "className:\\s*'([^']*)'",
+    "tdClassName:\\s*\"([^\"]*)\"",
+    "tdClassName:\\s*'([^']*)'",
+    "thClassName:\\s*\"([^\"]*)\"",
+    "thClassName:\\s*'([^']*)'"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
