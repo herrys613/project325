@@ -1,0 +1,1 @@
+import{n as e}from"./finance-BkPe52fu.js";var t=e;export{t as component};

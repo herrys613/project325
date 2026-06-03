@@ -1,0 +1,1 @@
+import{t as e}from"./coming-soon-CBzzD7H7.js";var t=e;export{t as component};

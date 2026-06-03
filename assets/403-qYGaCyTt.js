@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-DJPypktI.js";var t=e;export{t as component};
